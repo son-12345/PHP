@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f7add652-b941-461e-960a-4409a568885b" name="Changes" comment="aas" />
+    <list default="true" id="f7add652-b941-461e-960a-4409a568885b" name="Changes" comment="aas">
+      <change afterPath="$PROJECT_DIR$/student_crud/student_table/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_crud/student_table/create.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_crud/student_table/delete.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_crud/student_table/error.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_crud/student_table/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_crud/student_table/read.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_crud/student_table/student.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/student_crud/student_table/update.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b9d80802-c20e-478f-9d2e-e1905d51ce0b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b9d80802-c20e-478f-9d2e-e1905d51ce0b.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b9d80802-c20e-478f-9d2e-e1905d51ce0b/storage_v2/_src_/schema/library.uyToCQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees_table/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees_table/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees_table/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees_table/employees.sql" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/employees.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees_table/error.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/error.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees_table/index-oo-format.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/index-oo-format.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees_table/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees_table/read.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/read.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/employees_table/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/update.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +39,12 @@
   </component>
   <component name="Git.Settings">
     <branch-grouping />
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="fac423bbe7278182e722911adba6161889e93b09" />
@@ -38,36 +68,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.test.php.executor": "Debug",
-    "PHP Script.test.php.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "codephp",
-    "last_opened_file_path": "C:/Users/SON/Documents/PHP",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.test.php.executor&quot;: &quot;Debug&quot;,
+    &quot;PHP Script.test.php.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;codephp&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SON/Documents/PHP&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ],
-    "com.intellij.ide.scratch.LRUPopupBuilder$1/": [
-      "MySQL"
+    &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
+      &quot;MySQL&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SON\Documents\PHP1\employees_crud" />
       <recent name="C:\Users\SON\Documents\PHP1\shopping" />
       <recent name="C:\Users\SON\Documents\PHP\ex3" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="employees.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/employees_table/employees.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -95,7 +133,12 @@
       <workItem from="1704688140242" duration="44000" />
       <workItem from="1704688528527" duration="2317000" />
       <workItem from="1704772020302" duration="1418000" />
-      <workItem from="1704797548120" duration="7154000" />
+      <workItem from="1704797548120" duration="7886000" />
+      <workItem from="1704817094649" duration="3661000" />
+      <workItem from="1704852394773" duration="723000" />
+      <workItem from="1705021783705" duration="815000" />
+      <workItem from="1705028695307" duration="511000" />
+      <workItem from="1705029332287" duration="453000" />
     </task>
     <task id="LOCAL-00001" summary="aas">
       <option name="closed" value="true" />
@@ -161,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704805007184</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="aas">
+      <option name="closed" value="true" />
+      <created>1704805140437</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704805140437</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
