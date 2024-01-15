@@ -5,29 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7add652-b941-461e-960a-4409a568885b" name="Changes" comment="aas">
-      <change afterPath="$PROJECT_DIR$/student_crud/student_table/config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_crud/student_table/create.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_crud/student_table/delete.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_crud/student_table/error.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_crud/student_table/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_crud/student_table/read.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_crud/student_table/student.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/student_crud/student_table/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/case1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/cases.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/img/banner.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/img/facebook-logo-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/img/gallery/test.65a209b653a923.47208702.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/img/gallery/zukiman-mahamad.65a20985023651.65150376.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/img/twitter-logo-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/img/videothumb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/img/youtube-symbol.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/includes/dbh.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/includes/gallery-upload.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/includes/gallery-upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artstore/video/bella.mov" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b9d80802-c20e-478f-9d2e-e1905d51ce0b.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b9d80802-c20e-478f-9d2e-e1905d51ce0b.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b9d80802-c20e-478f-9d2e-e1905d51ce0b/storage_v2/_src_/schema/library.uyToCQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b9d80802-c20e-478f-9d2e-e1905d51ce0b.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b9d80802-c20e-478f-9d2e-e1905d51ce0b/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b9d80802-c20e-478f-9d2e-e1905d51ce0b/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_table/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_table/create.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/create.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_table/delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/delete.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_table/employees.sql" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/employees.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_table/error.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/error.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_table/index-oo-format.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/index-oo-format.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_table/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_table/read.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/read.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/employees_table/update.php" beforeDir="false" afterPath="$PROJECT_DIR$/employees_crud/employees_table/update.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +36,14 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <branch-grouping />
@@ -70,12 +78,15 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;JavaScript Debug.test.php.executor&quot;: &quot;Debug&quot;,
     &quot;PHP Script.test.php.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;codephp&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/SON/Documents/PHP&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/SON/Documents/PHP1/gallery/include&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -90,14 +101,22 @@
     ],
     &quot;com.intellij.ide.scratch.LRUPopupBuilder$1/&quot;: [
       &quot;MySQL&quot;
+    ],
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SON\Documents\PHP1\gallery\include" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SON\Documents\PHP1\gallery\video" />
+      <recent name="C:\Users\SON\Documents\PHP1\gallery\img" />
+      <recent name="C:\Users\SON\Documents\PHP1\gallery" />
       <recent name="C:\Users\SON\Documents\PHP1\employees_crud" />
       <recent name="C:\Users\SON\Documents\PHP1\shopping" />
-      <recent name="C:\Users\SON\Documents\PHP\ex3" />
     </key>
   </component>
   <component name="RunManager">
@@ -138,7 +157,8 @@
       <workItem from="1704852394773" duration="723000" />
       <workItem from="1705021783705" duration="815000" />
       <workItem from="1705028695307" duration="511000" />
-      <workItem from="1705029332287" duration="453000" />
+      <workItem from="1705029332287" duration="6813000" />
+      <workItem from="1705115998749" duration="3041000" />
     </task>
     <task id="LOCAL-00001" summary="aas">
       <option name="closed" value="true" />
@@ -212,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704805140437</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="aas">
+      <option name="closed" value="true" />
+      <created>1705029832582</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1705029832582</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +303,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="SHOW_PATCH_IN_EXPLORER" value="true" />
     <MESSAGE value="aas" />
     <option name="LAST_COMMIT_MESSAGE" value="aas" />
